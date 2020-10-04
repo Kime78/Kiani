@@ -1,0 +1,6 @@
+{
+    "name": "Test Module",
+    "description": "This is a module for testing",
+    "version": 0.1,
+    "icon": "path/to/icon"
+}
